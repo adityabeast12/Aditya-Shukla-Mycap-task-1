@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  double x;
+  x=3.4;
+  cout<<"Number 1 = 3.4";
+
+  
+  double y;
+  y=5.5;
+  cout<<"\n Number 2 = 5.5";
+
+  
+  cout<<"\n product=";
+  cout<<x*y;
+} 
